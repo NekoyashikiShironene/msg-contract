@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.input-field {
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 20px;
+  background-color: whitesmoke;
+  color: black;
+}
+
+input {
+  padding: 10px;
+  margin-left: 10px;
+  border-radius: 5px;
+  background-color: #e7e7e7;
+  color: black;
+}
+
+input::placeholder{
+  color: black;
+}
+
+button {
+  margin-left: 20px;
+  background-color: #008CBA;
+}
